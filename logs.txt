@@ -1,0 +1,17 @@
+2025-07-01 23:05:59,108 - INFO - Start polling
+2025-07-01 23:05:59,461 - INFO - Run polling for bot @KinochiRobot_bot id=7258621004 - 'Kinolar bot'
+2025-07-01 23:06:11,799 - INFO - Update id=418481114 is handled. Duration 604 ms by bot id=7258621004
+2025-07-01 23:06:11,800 - INFO - Update id=418481113 is handled. Duration 618 ms by bot id=7258621004
+2025-07-01 23:09:09,937 - INFO - Polling stopped
+2025-07-01 23:09:10,198 - INFO - Polling stopped for bot @KinochiRobot_bot id=7258621004 - 'Kinolar bot'
+2025-07-01 23:09:14,500 - INFO - Start polling
+2025-07-01 23:09:18,060 - INFO - Run polling for bot @KinochiRobot_bot id=7258621004 - 'Kinolar bot'
+2025-07-01 23:09:19,737 - INFO - Update id=418481115 is handled. Duration 392 ms by bot id=7258621004
+2025-07-01 23:09:23,993 - INFO - Update id=418481116 is handled. Duration 268 ms by bot id=7258621004
+2025-07-01 23:09:27,557 - INFO - Update id=418481117 is handled. Duration 840 ms by bot id=7258621004
+2025-07-01 23:09:31,402 - INFO - Update id=418481118 is handled. Duration 241 ms by bot id=7258621004
+2025-07-01 23:09:32,604 - INFO - Update id=418481119 is handled. Duration 199 ms by bot id=7258621004
+2025-07-01 23:09:35,479 - INFO - Update id=418481120 is handled. Duration 235 ms by bot id=7258621004
+2025-07-01 23:09:38,925 - INFO - Update id=418481121 is handled. Duration 189 ms by bot id=7258621004
+2025-07-01 23:09:41,461 - INFO - Update id=418481122 is handled. Duration 282 ms by bot id=7258621004
+2025-07-01 23:09:42,508 - INFO - Update id=418481123 is handled. Duration 362 ms by bot id=7258621004
